@@ -1,7 +1,7 @@
-# WebSocket
+# WebSocket Chat
 ![Untitled-3](https://user-images.githubusercontent.com/66390330/227357662-a8dc2189-bbe8-48ee-a6e4-d12c75e4c2be.png)
 
-WebSocket
+WebSocket Chat
 
 
 ws is a simple to use, blazing fast, and thoroughly tested WebSocket client and server implementation.
