@@ -13,11 +13,29 @@ Browser clients must use the native WebSocket object. To make the same code work
 available on npm, like isomorphic-ws.
 Docs: https://www.npmjs.com/package/ws
 
-Installing:
+![WebSocket](https://user-images.githubusercontent.com/66390330/227494531-a9dc327c-cfef-4926-ade8-c59135220634.png)
 
-npm install ws
+## Setup
 
+Make sure to install the dependencies:
 
-There are no modules in the project, use:
+```bash
+# yarn
+yarn install
 
-npm i
+# npm
+npm install
+
+# pnpm
+pnpm install
+```
+
+## Development Server
+
+```bash
+npm run start
+```
+## Client launch
+
+Open the directory where the repository is stored locally, open the /public directory. Run index.html. The number of times index.html is run, 
+the number of clients you will create.
